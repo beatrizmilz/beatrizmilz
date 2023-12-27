@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently a PhD Candidate in Environmental Sciences at the University of São Paulo 🇧🇷
+- 📫 How to reach me: [email](mailto:milz.bea@gmail.com) or [Linkedin](https://www.linkedin.com/in/beatrizmilz/)
+- 😄 Pronouns: she/her
+
+---
+[![Beatriz Milz profile views](https://u8views.com/api/v1/github/profiles/42153618/views/day-week-month-total-count.svg)](https://u8views.com/github/beatrizmilz)
+
 <!--
 **beatrizmilz/beatrizmilz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
