@@ -1,23 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently a PhD Candidate in Environmental Sciences at the University of São Paulo 🇧🇷
+- 🎓 Bachelor degree in Environmental Management; Master degree in Sciences
 - 📫 How to reach me: [email](mailto:milz.bea@gmail.com) or [Linkedin](https://www.linkedin.com/in/beatrizmilz/)
-- 😄 Pronouns: she/her
-
----
-[![Beatriz Milz profile views](https://u8views.com/api/v1/github/profiles/42153618/views/day-week-month-total-count.svg)](https://u8views.com/github/beatrizmilz)
-
-<!--
-**beatrizmilz/beatrizmilz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Talks: [https://beamilz.com/talks/](https://beamilz.com/talks/)
+- 👩🏼‍🏫 Teaching at: [Curso-R](https://curso-r.com/), [cebrap.lab](https://cebrap.org.br/cebrap-lab/) and [IME-USP Summer courses](https://www.ime.usp.br/verao/index.php)
