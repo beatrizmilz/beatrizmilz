@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⭐ I'm a [GitHub Star](https://stars.github.com/profiles/beatrizmilz/).
+- ⭐ I'm a [GitHub Star](https://stars.github.com/profiles/beatrizmilz/). 
 - 🌱 I’m a PhD in Environmental Sciences at the University of São Paulo 🇧🇷
 - 🎓 Bachelor degree in Environmental Management; Master degree in Sciences
 - 📫 How to reach me: [email](mailto:milz.bea@gmail.com) 
@@ -12,4 +12,4 @@
    - [GitHub Actions](https://www.credly.com/badges/1fa1705c-e86b-4734-879c-0f96de38be73), Certified by GitHub (2024) 
 - 💜 [R-Ladies São Paulo co-organizer](https://github.com/R-Ladies-Sao-Paulo)
 - 📦 [rOpenSci](https://ropensci.org/) - Software Peer Review Editor
-- 📚 [Skoob](https://www.skoob.com.br/usuario/10490743)
+- 📚 [Skoob](https://www.skoob.com.br/usuario/10490743) and [Goodreads](https://www.goodreads.com/user/show/180775178-beatriz-milz)
