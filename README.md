@@ -11,4 +11,3 @@
    - [GitHub Actions](https://www.credly.com/badges/1fa1705c-e86b-4734-879c-0f96de38be73), Certified by GitHub (2024) 
 - 💜 [R-Ladies São Paulo co-organizer](https://github.com/R-Ladies-Sao-Paulo)
 - 📦 [rOpenSci](https://ropensci.org/) - Software Peer Review Editor
-- 📚 [Skoob](https://www.skoob.com.br/usuario/10490743) and [Goodreads](https://www.goodreads.com/user/show/180775178-beatriz-milz)
