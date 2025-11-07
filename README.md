@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⭐ I'm a [GitHub Star](https://stars.github.com/profiles/beatrizmilz/). 
-- 🌱 I’m a PhD in Environmental Sciences at the University of São Paulo 🇧🇷
+- 🌱 I’m a PhD in Environmental Sciences at the University of São Paulo (USP) , and did a Post-doc at the Federal University of ABC (UFABC) 🇧🇷
 - 🎓 Bachelor degree in Environmental Management; Master degree in Sciences
 - 📫 How to reach me: [email](mailto:milz.bea@gmail.com) 
 - 📔 Talks: [https://beamilz.com/talks/](https://beamilz.com/talks/)
